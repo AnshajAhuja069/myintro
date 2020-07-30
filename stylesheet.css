@@ -1,0 +1,35 @@
+body {
+    background-color: #76ead7;
+}
+
+hr {
+    border-style: dotted;
+    border-color: #eeeeee;
+    border-width: 5px;
+    border-top: none;
+    border-spacing: 2px;
+    width: 10%;
+}
+
+h1 {
+    color: #5e6f64;
+    background-color: #c4fb6d;
+    border-style: double;
+    font-style: italic;
+}
+
+h3 {
+    color: olive;
+}
+
+img {
+    border-color: orangered;
+    border-width: 2px;
+    background-color: #c4fb6d;
+    background-size: 3px;
+}
+
+button {
+    color: blue;
+    background-color: chartreuse;
+}
